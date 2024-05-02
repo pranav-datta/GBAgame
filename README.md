@@ -1,1 +1,1 @@
-Simple Gameboy Advanced game that mimics The World Hardest Game
+Simple Gameboy Advanced game that mimics The World Hardest Game in C
