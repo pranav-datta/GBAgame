@@ -1,4 +1,6 @@
-The World's Hardest Easiest Game!
+# The World's Hardest Easiest Game!
+
+![Screenshot from game](game.png)
 
 This game functions exactly like the World's Hardest Game if you've played that.
 
